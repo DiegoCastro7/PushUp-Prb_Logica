@@ -53,7 +53,7 @@ while (Eleccion != 2)
                 break;
         }
     }
-    catch (System.Exception ex)
+    catch (System.Exception)
     {
         Console.WriteLine("Valor incorrecto, ingrese un valor valido");
         Console.Write("Presione enter para continuar");

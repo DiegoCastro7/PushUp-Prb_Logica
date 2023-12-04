@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Reto 2: Numeros Amistosos");
+﻿Console.WriteLine("Reto 3: Numeros Amistosos");
 int Eleccion = 0;
 int m = 0;
 int n = 0;
@@ -72,7 +72,7 @@ while (Eleccion != 2)
                 break;
         }
     }
-    catch (System.Exception ex)
+    catch (System.Exception)
     {
         Console.WriteLine("Valor incorrecto, ingrese un valor valido");
         Console.Write("Presione enter para continuar");
