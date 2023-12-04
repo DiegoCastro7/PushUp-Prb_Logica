@@ -94,8 +94,6 @@ while (Eleccion != 4)
             default:
                 break;
         }
-        
-
     }
     catch (System.Exception ex)
     {
