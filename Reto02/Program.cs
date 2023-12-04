@@ -52,8 +52,6 @@ while (Eleccion != 2)
             default:
                 break;
         }
-        
-
     }
     catch (System.Exception ex)
     {
